@@ -13,7 +13,7 @@
      <tr/>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b> SQL </b></sub></a><br /></td>
       <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b> CRAWLING </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="" width="100px;" alt=""/><br /><sub><b> NUMPY </b></sub></a><br /></td>
+      <td align="center"><a href="https://vaulted-lobe-c6e.notion.site/NUMPY-ea6d216347a54c41b5f09f78a0e219e5?pvs=4"><img src="" width="100px;" alt=""/><br /><sub><b> NUMPY </b></sub></a><br /></td>
     </tr>
   </tbody>
 </table>
