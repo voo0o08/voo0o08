@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Tech
-
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1708309501610?alt=media&token=2e172d84-ca6e-48c2-8677-d27c90e57955)](https://github.com/msdio/stackticon)
 ### PROJECT INFO
 
 ### STUDY NOTE
