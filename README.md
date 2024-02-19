@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Tech
+
 ### PROJECT INFO
 
 ### STUDY NOTE
