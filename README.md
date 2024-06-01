@@ -24,33 +24,6 @@
 
 
 
-<!---
-|Week|Subject|Badge|
-|:---:|:---:|:---|
-|1주차|Pyhon|![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|
-|2주차|Pandas|![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)|
-|3주차|공공데이터|![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)|
-|4주차|SQL|![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)|
-|5주차|크롤링|![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)|
-|6주차|통계&Numpy|![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)|
-|7주차|Machine Learning|![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)|
-|8주차|Deep Learning|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
-|9주차|CV|![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)|
-|10주차|자연어 처리||
-|11주차|웹 기초|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)|
-|12주차|웹 활용||
-|13주차|AWS 클라우드||
-|14주차~|기업 프로젝트||
---->
-
-
-
-
-
-
-
-
-
 | Python 개인 프로젝트 <br> 2024/1/4 ~ 2024/1/5|Pandas 팀 프로젝트 <br> My Anime List Data Set 시각화 <br> 2024/01/15 ~ 2024/01/16|
 |:---:|:---:|
 | <a href="https://voo0o08.notion.site/PYTHON-407bb4c513a24ab69caa536a9f1cc72b">![image](https://github.com/voo0o08/voo0o08/assets/155411941/2b173780-8408-4cf3-af16-441af526b75f)</a> | <a href="https://voo0o08.notion.site/PANDAS-da8ee2370859464e86ed180d6ea5717d">![스크린샷 2024-06-01 191303](https://github.com/voo0o08/voo0o08/assets/155411941/5480860d-81cc-4b3a-8786-cb0ff284a316)</a> |
@@ -66,7 +39,7 @@
 | **웹 기초 팀 프로젝트 <br> 케에팝 분석하기 <br> 2024/04/12~2024/04/15** | **웹 활용 팀 프로젝트 <br> 성경 번역 프로젝트 <br> 2024/04/20~2024/04/22**|
 | <a href="https://voo0o08.notion.site/280e5827719b4f80a86e0ed0c276a5f2">![image](https://github.com/voo0o08/voo0o08/assets/155411941/aa14204c-938f-4199-906b-90db592debe3)</a> | <a href="https://voo0o08.notion.site/def87d2b930c4fc19d80d62fbab76896">![image](https://github.com/voo0o08/voo0o08/assets/155411941/bb82fc0f-6b12-456a-9931-af3f5b9fb49c)</a> |
 | **개인 프로젝트 <br> CODA아동을 위한 수어 게임 <br> 2024/04/27 ~ 2024/04/30** | **기업 프로젝트 <br> 제조데이터를 활용한 중량값 예측 <br> 2024/05/~**|
-| <a href="https://voo0o08.notion.site/CODA-700cc8928618451399342ce8c029cab9">![image](https://github.com/voo0o08/voo0o08/assets/155411941/607c8ef0-876e-4751-af65-aa7b868d144a)</a> | <a href="https://github.com/juugii-ho/CV-TP-4Team"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-7.jpg?raw=true" width="720" height="340"  /></a> |
+| <a href="https://voo0o08.notion.site/CODA-700cc8928618451399342ce8c029cab9">![image](https://github.com/voo0o08/voo0o08/assets/155411941/607c8ef0-876e-4751-af65-aa7b868d144a)</a> | <a href="https://voo0o08.notion.site/5c0944ef32b042cabc1cd4511adff5bb?pvs=4">![스크린샷 2024-05-30 202118](https://github.com/voo0o08/voo0o08/assets/155411941/74a9a37c-325f-4cff-9503-1fd9d8ba4ae6)</a> |
 
 
 
