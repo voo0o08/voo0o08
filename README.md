@@ -61,13 +61,20 @@
 | <a href="https://voo0o08.notion.site/Crawling-4306cb99071c43ddbd0d0972ee5366c9">![스크린샷 2024-06-01 191930](https://github.com/voo0o08/voo0o08/assets/155411941/886ca024-74e2-4975-8aeb-9e8d3e0bb3c1)</a> | <a href="https://voo0o08.notion.site/NUMPY-317c8ba39c354c19a07797859642df2c">![image](https://github.com/voo0o08/voo0o08/assets/155411941/5b8446d3-cbcc-4162-bba8-730177d925af)
 </a> |
 | **머신러닝 팀 프로젝트 <br> 건강 분석 <br> 2024/03/07~2024/03/08** | **Deep Learning 팀 프로젝트 <br> 딥러닝의 딥러닝 <br> 2024/03/19~2024/03/20**|
-| <a href="https://voo0o08.notion.site/Machine-Learning-9f9e37458d3049eeb6875c237ac7b06f"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-6.jpg?raw=true" width="720" height="340"/></a> | <a href="https://voo0o08.notion.site/Deep-Learning-cb180c505de8456d84f74e1ed4fb05ef"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-7.jpg?raw=true" width="720" height="340"  /></a> |
+| <a href="https://voo0o08.notion.site/Machine-Learning-9f9e37458d3049eeb6875c237ac7b06f"><img width="937" alt="image" src="https://github.com/voo0o08/voo0o08/assets/155411941/b6095b31-dcda-4ad5-bed3-f908b700955e">
+</a> | <a href="https://voo0o08.notion.site/Deep-Learning-cb180c505de8456d84f74e1ed4fb05ef">![image](https://github.com/voo0o08/voo0o08/assets/155411941/8febccec-2312-47e5-ac94-3751af27c483)
+</a> |
 | **OPEN CV 팀 프로젝트 <br> pizza or not pizza? <br> 2024/03/26~2024/03/27** | **자연어 처리 팀 프로젝트 <br> 노래 가사와 소리를 통한 노래 장르 분류하기 <br> 2024/04/03~2024/04/05**|
-| <a href="https://voo0o08.notion.site/Open-CV-668ac172f24841099433c218e0448daf"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-6.jpg?raw=true" width="720" height="340"/></a> | <a href="https://voo0o08.notion.site/e6fc493eaf054d89b6c0bfb1084d5068"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-7.jpg?raw=true" width="720" height="340"  /></a> |
+| <a href="https://voo0o08.notion.site/Open-CV-668ac172f24841099433c218e0448daf">![image](https://github.com/voo0o08/voo0o08/assets/155411941/2b1fd3a9-7c62-4829-babe-218c32bc3584)
+</a> | <a href="https://voo0o08.notion.site/e6fc493eaf054d89b6c0bfb1084d5068">![image](https://github.com/voo0o08/voo0o08/assets/155411941/ac50f2d0-d9b9-4896-9ac2-5156826b79d0)
+</a> |
 | **웹 기초 팀 프로젝트 <br> 케에팝 분석하기 <br> 2024/04/12~2024/04/15** | **웹 활용 팀 프로젝트 <br> 성경 번역 프로젝트 <br> 2024/04/20~2024/04/22**|
-| <a href="https://voo0o08.notion.site/280e5827719b4f80a86e0ed0c276a5f2"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-6.jpg?raw=true" width="720" height="340"/></a> | <a href="https://voo0o08.notion.site/def87d2b930c4fc19d80d62fbab76896"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-7.jpg?raw=true" width="720" height="340"  /></a> |
+| <a href="https://voo0o08.notion.site/280e5827719b4f80a86e0ed0c276a5f2">![image](https://github.com/voo0o08/voo0o08/assets/155411941/aa14204c-938f-4199-906b-90db592debe3)
+</a> | <a href="https://voo0o08.notion.site/def87d2b930c4fc19d80d62fbab76896">![image](https://github.com/voo0o08/voo0o08/assets/155411941/bb82fc0f-6b12-456a-9931-af3f5b9fb49c)
+</a> |
 | **개인 프로젝트 <br> CODA아동을 위한 수어 게임 <br> 2024/04/27 ~ 2024/04/30** | **기업 프로젝트 <br> 제조데이터를 활용한 중량값 예측 <br> 2024/05/~**|
-| <a href="https://voo0o08.notion.site/CODA-700cc8928618451399342ce8c029cab9"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-6.jpg?raw=true" width="720" height="340"/></a> | <a href="https://github.com/juugii-ho/CV-TP-4Team"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-7.jpg?raw=true" width="720" height="340"  /></a> |
+| <a href="https://voo0o08.notion.site/CODA-700cc8928618451399342ce8c029cab9">![image](https://github.com/voo0o08/voo0o08/assets/155411941/607c8ef0-876e-4751-af65-aa7b868d144a)
+</a> | <a href="https://github.com/juugii-ho/CV-TP-4Team"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-7.jpg?raw=true" width="720" height="340"  /></a> |
 
 
 
