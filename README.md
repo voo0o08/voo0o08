@@ -51,7 +51,7 @@
 
 | Python 개인 프로젝트 <br> 2024/1/4 ~ 2024/1/5|Pandas 팀 프로젝트 <br> My Anime List Data Set 시각화 <br> 2024/01/15 ~ 2024/01/16|
 |:---:|:---:|
-| <a href="https://voo0o08.notion.site/PYTHON-407bb4c513a24ab69caa536a9f1cc72b">![image](https://github.com/voo0o08/voo0o08/assets/155411941/2b173780-8408-4cf3-af16-441af526b75f)</a> | <a href="[https://github.com/juugii-ho/Pandas_Matlab_Project](https://voo0o08.notion.site/PANDAS-da8ee2370859464e86ed180d6ea5717d)"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image.jpg?raw=true" width="720" height="340"  /></a> |
+| <a href="https://voo0o08.notion.site/PYTHON-407bb4c513a24ab69caa536a9f1cc72b">![image](https://github.com/voo0o08/voo0o08/assets/155411941/2b173780-8408-4cf3-af16-441af526b75f)</a> | <a href="https://voo0o08.notion.site/PANDAS-da8ee2370859464e86ed180d6ea5717d"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image.jpg?raw=true" width="720" height="340"  /></a> |
 | **공공데이터 팀 프로제트 <br> 취업 시장을 분석 <br> 2024/01/29~2024/01/30** | **SQL 팀 프로젝트 <br> 출생률 감소로 알아보는 사회 현상 <br> 2024/02/05~2024/02/06**|
 | <a href="[https://github.com/juugii-ho/PublicData_team4](https://voo0o08.notion.site/2588744cb66347f18bff8cd88b03e11a)"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-2.jpg?raw=true" width="720" height="340"/></a> | <a href="[https://github.com/juugii-ho/KDT-Crawling](https://voo0o08.notion.site/SQL-f5229944cd6241f3a2f65eb500f5d11a)"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-3.jpg?raw=true" width="720" height="340"  /></a> |
 | **크롤링 팀 프로젝트 <br> 빅데이터/AI 분야의 취업 동향 <br> 2024/02/14~2024/02/15** | **통계&Numpy 팀 프로젝트  <br> B날씨 분석 프로젝트 <br> 2024/02/21 ~ 2024/02/22**|
