@@ -49,13 +49,17 @@
 
 
 
+
+
 | Python 개인 프로젝트 <br> 2024/1/4 ~ 2024/1/5|Pandas 팀 프로젝트 <br> My Anime List Data Set 시각화 <br> 2024/01/15 ~ 2024/01/16|
 |:---:|:---:|
-| <a href="https://voo0o08.notion.site/PYTHON-407bb4c513a24ab69caa536a9f1cc72b">![image](https://github.com/voo0o08/voo0o08/assets/155411941/2b173780-8408-4cf3-af16-441af526b75f)</a> | <a href="https://voo0o08.notion.site/PANDAS-da8ee2370859464e86ed180d6ea5717d"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image.jpg?raw=true" width="720" height="340"  /></a> |
+| <a href="https://voo0o08.notion.site/PYTHON-407bb4c513a24ab69caa536a9f1cc72b">![image](https://github.com/voo0o08/voo0o08/assets/155411941/2b173780-8408-4cf3-af16-441af526b75f)</a> | <a href="https://voo0o08.notion.site/PANDAS-da8ee2370859464e86ed180d6ea5717d">![스크린샷 2024-06-01 191303](https://github.com/voo0o08/voo0o08/assets/155411941/5480860d-81cc-4b3a-8786-cb0ff284a316)</a> |
 | **공공데이터 팀 프로젝트 <br> 취업 시장을 분석 <br> 2024/01/29~2024/01/30** | **SQL 팀 프로젝트 <br> 출생률 감소로 알아보는 사회 현상 <br> 2024/02/05~2024/02/06**|
-| <a href="https://voo0o08.notion.site/2588744cb66347f18bff8cd88b03e11a"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-2.jpg?raw=true" width="720" height="340"/></a> | <a href="https://voo0o08.notion.site/SQL-f5229944cd6241f3a2f65eb500f5d11a"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-3.jpg?raw=true" width="720" height="340"  /></a> |
+| <a href="https://voo0o08.notion.site/2588744cb66347f18bff8cd88b03e11a">![image](https://github.com/voo0o08/voo0o08/assets/155411941/78cb3674-193a-4ebf-9f58-1af5c7eae98b)</a> | <a href="https://voo0o08.notion.site/SQL-f5229944cd6241f3a2f65eb500f5d11a"><img width="1061" alt="image" src="https://github.com/voo0o08/voo0o08/assets/155411941/4c147b6f-fb1f-4968-a507-9da7001004b7">
+</a> |
 | **크롤링 팀 프로젝트 <br> 빅데이터/AI 분야의 취업 동향 <br> 2024/02/14~2024/02/15** | **통계&Numpy 팀 프로젝트  <br> 날씨 분석 프로젝트 <br> 2024/02/21 ~ 2024/02/22**|
-| <a href="https://voo0o08.notion.site/Crawling-4306cb99071c43ddbd0d0972ee5366c9"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-4.jpg?raw=true" width="720" height="340"/></a> | <a href="https://voo0o08.notion.site/NUMPY-317c8ba39c354c19a07797859642df2c"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-5.jpg?raw=true" width="720" height="340"  /></a> |
+| <a href="https://voo0o08.notion.site/Crawling-4306cb99071c43ddbd0d0972ee5366c9">![스크린샷 2024-06-01 191930](https://github.com/voo0o08/voo0o08/assets/155411941/886ca024-74e2-4975-8aeb-9e8d3e0bb3c1)</a> | <a href="https://voo0o08.notion.site/NUMPY-317c8ba39c354c19a07797859642df2c">![image](https://github.com/voo0o08/voo0o08/assets/155411941/5b8446d3-cbcc-4162-bba8-730177d925af)
+</a> |
 | **머신러닝 팀 프로젝트 <br> 건강 분석 <br> 2024/03/07~2024/03/08** | **Deep Learning 팀 프로젝트 <br> 딥러닝의 딥러닝 <br> 2024/03/19~2024/03/20**|
 | <a href="https://voo0o08.notion.site/Machine-Learning-9f9e37458d3049eeb6875c237ac7b06f"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-6.jpg?raw=true" width="720" height="340"/></a> | <a href="https://voo0o08.notion.site/Deep-Learning-cb180c505de8456d84f74e1ed4fb05ef"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-7.jpg?raw=true" width="720" height="340"  /></a> |
 | **OPEN CV 팀 프로젝트 <br> pizza or not pizza? <br> 2024/03/26~2024/03/27** | **자연어 처리 팀 프로젝트 <br> 노래 가사와 소리를 통한 노래 장르 분류하기 <br> 2024/04/03~2024/04/05**|
