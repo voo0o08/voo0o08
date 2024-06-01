@@ -24,6 +24,33 @@
 
 
 
+<!---
+|Week|Subject|Badge|
+|:---:|:---:|:---|
+|1주차|Pyhon|![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)|
+|2주차|Pandas|![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)|
+|3주차|공공데이터|![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)|
+|4주차|SQL|![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)|
+|5주차|크롤링|![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)|
+|6주차|통계&Numpy|![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)|
+|7주차|Machine Learning|![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)|
+|8주차|Deep Learning|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)|
+|9주차|CV|![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)|
+|10주차|자연어 처리||
+|11주차|웹 기초|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)|
+|12주차|웹 활용||
+|13주차|AWS 클라우드||
+|14주차~|기업 프로젝트||
+--->
+
+
+
+
+
+
+
+
+
 | Python 개인 프로젝트 <br> 2024/1/4 ~ 2024/1/5|Pandas 팀 프로젝트 <br> My Anime List Data Set 시각화 <br> 2024/01/15 ~ 2024/01/16|
 |:---:|:---:|
 | <a href="https://voo0o08.notion.site/PYTHON-407bb4c513a24ab69caa536a9f1cc72b">![image](https://github.com/voo0o08/voo0o08/assets/155411941/2b173780-8408-4cf3-af16-441af526b75f)</a> | <a href="https://voo0o08.notion.site/PANDAS-da8ee2370859464e86ed180d6ea5717d">![스크린샷 2024-06-01 191303](https://github.com/voo0o08/voo0o08/assets/155411941/5480860d-81cc-4b3a-8786-cb0ff284a316)</a> |
