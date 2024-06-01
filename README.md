@@ -49,13 +49,13 @@
 
 
 
-| Python 개인 프로젝트 <br> 2024/1/4 ~ 2024/1/5|3-4주차 Pandas 팀 프로젝트 <br> My Anime List Data Set 시각화 <br> 2024/01/15 ~ 2024/01/16|
+| Python 개인 프로젝트 <br> 2024/1/4 ~ 2024/1/5|Pandas 팀 프로젝트 <br> My Anime List Data Set 시각화 <br> 2024/01/15 ~ 2024/01/16|
 |:---:|:---:|
 | <a href="https://voo0o08.notion.site/PYTHON-407bb4c513a24ab69caa536a9f1cc72b">![image](https://github.com/voo0o08/voo0o08/assets/155411941/2b173780-8408-4cf3-af16-441af526b75f)</a> | <a href="[https://github.com/juugii-ho/Pandas_Matlab_Project](https://voo0o08.notion.site/PANDAS-da8ee2370859464e86ed180d6ea5717d)"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image.jpg?raw=true" width="720" height="340"  /></a> |
-| **5주차 공공데이터 팀 프로제트 <br> 대구 개발자 연봉을 디버깅하다** | **7주차 크롤링 팀 프로젝트 <br> 생산형 AI의 현황과 영향**|
-| <a href="https://github.com/juugii-ho/PublicData_team4"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-2.jpg?raw=true" width="720" height="340"/></a> | <a href="https://github.com/juugii-ho/KDT-Crawling"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-3.jpg?raw=true" width="720" height="340"  /></a> |
-| **8주차 통계&Numpy 팀 프로젝트 <br> 대한미국의 기온과 이상현상으로 보는 기후** | **9-10주차 크롤링 팀 프로젝트 <br> BATTLE GROUND 1위 확률 예측 모델**|
-| <a href="https://github.com/juugii-ho/KDT5_Numpy_Project"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-4.jpg?raw=true" width="720" height="340"/></a> | <a href="https://github.com/juugii-ho/KDT-mini_project_ML"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-5.jpg?raw=true" width="720" height="340"  /></a> |
+| **공공데이터 팀 프로제트 <br> 취업 시장을 분석 <br> 2024/01/29~2024/01/30** | **SQL 팀 프로젝트 <br> 출생률 감소로 알아보는 사회 현상 <br> 2024/02/05~2024/02/06**|
+| <a href="[https://github.com/juugii-ho/PublicData_team4](https://voo0o08.notion.site/2588744cb66347f18bff8cd88b03e11a)"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-2.jpg?raw=true" width="720" height="340"/></a> | <a href="[https://github.com/juugii-ho/KDT-Crawling](https://voo0o08.notion.site/SQL-f5229944cd6241f3a2f65eb500f5d11a)"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-3.jpg?raw=true" width="720" height="340"  /></a> |
+| **크롤링 팀 프로젝트 <br> 빅데이터/AI 분야의 취업 동향 <br> 2024/02/14~2024/02/15** | **통계&Numpy 팀 프로젝트  <br> B날씨 분석 프로젝트 <br> 2024/02/21 ~ 2024/02/22**|
+| <a href="[https://github.com/juugii-ho/KDT5_Numpy_Project](https://voo0o08.notion.site/Crawling-4306cb99071c43ddbd0d0972ee5366c9)"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-4.jpg?raw=true" width="720" height="340"/></a> | <a href="[https://github.com/juugii-ho/KDT-mini_project_ML](https://voo0o08.notion.site/NUMPY-317c8ba39c354c19a07797859642df2c)"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-5.jpg?raw=true" width="720" height="340"  /></a> |
 | **11-12주차 딥러닝 팀 프로젝트 <br> 표정 인식 딥러닝 모델 개발을 통한 딥러닝 분석** | **13주차 OPENCV 팀 프로젝트 <br> 운송수단 다중 분류**|
 | <a href="https://github.com/juugii-ho/DeepLearning"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-6.jpg?raw=true" width="720" height="340"/></a> | <a href="https://github.com/juugii-ho/CV-TP-4Team"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-7.jpg?raw=true" width="720" height="340"  /></a> |
 | **14주차 자연어 처리 팀 프로젝트 <br> 조선왕조실록 자연어 분석** | **15주차 웹 기초 팀 프로젝트 <br> More than K-POP**|
