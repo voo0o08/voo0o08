@@ -56,16 +56,14 @@
 | <a href="[https://github.com/juugii-ho/PublicData_team4](https://voo0o08.notion.site/2588744cb66347f18bff8cd88b03e11a)"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-2.jpg?raw=true" width="720" height="340"/></a> | <a href="[https://github.com/juugii-ho/KDT-Crawling](https://voo0o08.notion.site/SQL-f5229944cd6241f3a2f65eb500f5d11a)"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-3.jpg?raw=true" width="720" height="340"  /></a> |
 | **크롤링 팀 프로젝트 <br> 빅데이터/AI 분야의 취업 동향 <br> 2024/02/14~2024/02/15** | **통계&Numpy 팀 프로젝트  <br> B날씨 분석 프로젝트 <br> 2024/02/21 ~ 2024/02/22**|
 | <a href="[https://github.com/juugii-ho/KDT5_Numpy_Project](https://voo0o08.notion.site/Crawling-4306cb99071c43ddbd0d0972ee5366c9)"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-4.jpg?raw=true" width="720" height="340"/></a> | <a href="[https://github.com/juugii-ho/KDT-mini_project_ML](https://voo0o08.notion.site/NUMPY-317c8ba39c354c19a07797859642df2c)"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-5.jpg?raw=true" width="720" height="340"  /></a> |
-| **11-12주차 딥러닝 팀 프로젝트 <br> 표정 인식 딥러닝 모델 개발을 통한 딥러닝 분석** | **13주차 OPENCV 팀 프로젝트 <br> 운송수단 다중 분류**|
-| <a href="https://github.com/juugii-ho/DeepLearning"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-6.jpg?raw=true" width="720" height="340"/></a> | <a href="https://github.com/juugii-ho/CV-TP-4Team"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-7.jpg?raw=true" width="720" height="340"  /></a> |
-| **14주차 자연어 처리 팀 프로젝트 <br> 조선왕조실록 자연어 분석** | **15주차 웹 기초 팀 프로젝트 <br> More than K-POP**|
-| <a href="https://github.com/juugii-ho/KDT5_NLP_Project"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-8.jpg?raw=true" width="720" height="340"/></a> | <a href="https://github.com/juugii-ho/service_ml_TP"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/KPOP.jpg" width="720" height="340"/></a> |
-| **16주차 웹 활용 팀 프로젝트 <br> Natural Discovery** | **17주차 AWS 개인 프로젝트 <br> META CHART**|
-|<a href="https://github.com/juugii-ho/KDT_15W_Project_KDT05_FLASK_Project"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-9.jpg" width="720" height="340"/></a>|<a href="https://github.com/juugii-ho/KDT_16_Private_Project"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/metachart.jpg" width="720" height="340"/></a>|
-
-
-<!---<a href="https://github.com/juugii-ho/CV-TP-4Team"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-7.jpg?raw=true" width="720" height="340"  /></a> |
---->
+| **머신러닝 팀 프로젝트 <br> 건강 분석 <br> 2024/03/07~2024/03/08** | **Deep Learning 팀 프로젝트 <br> 딥러닝의 딥러닝 <br> 2024/03/19~2024/03/20**|
+| <a href="[https://github.com/juugii-ho/DeepLearning](https://voo0o08.notion.site/Machine-Learning-9f9e37458d3049eeb6875c237ac7b06f)"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-6.jpg?raw=true" width="720" height="340"/></a> | <a href="[https://github.com/juugii-ho/CV-TP-4Team](https://voo0o08.notion.site/Deep-Learning-cb180c505de8456d84f74e1ed4fb05ef)"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-7.jpg?raw=true" width="720" height="340"  /></a> |
+| **OPEN CV 팀 프로젝트 <br> pizza or not pizza? <br> 2024/03/26~2024/03/27** | **자연어 처리 팀 프로젝트 <br> 노래 가사와 소리를 통한 노래 장르 분류하기 <br> 2024/04/03~2024/04/05**|
+| <a href="https://voo0o08.notion.site/Open-CV-668ac172f24841099433c218e0448daf"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-6.jpg?raw=true" width="720" height="340"/></a> | <a href="[https://github.com/juugii-ho/CV-TP-4Team"](https://voo0o08.notion.site/e6fc493eaf054d89b6c0bfb1084d5068)><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-7.jpg?raw=true" width="720" height="340"  /></a> |
+| **웹 기초 팀 프로젝트 <br> 케에팝 분석하기 <br> 2024/04/12~2024/04/15** | **웹 활용 팀 프로젝트 <br> 성경 번역 프로젝트 <br> 2024/04/20~2024/04/22**|
+| <a href="[https://github.com/juugii-ho/DeepLearning](https://voo0o08.notion.site/280e5827719b4f80a86e0ed0c276a5f2)"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-6.jpg?raw=true" width="720" height="340"/></a> | <a href="https://voo0o08.notion.site/def87d2b930c4fc19d80d62fbab76896"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-7.jpg?raw=true" width="720" height="340"  /></a> |
+| **개인 프로젝트 <br> CODA아동을 위한 수어 게임 <br> 2024/04/27 ~ 2024/04/30** | **기업 프로젝트 <br> 제조데이터를 활용한 중량값 예측 <br> 2024/05/~**|
+| <a href="https://voo0o08.notion.site/CODA-700cc8928618451399342ce8c029cab9"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-6.jpg?raw=true" width="720" height="340"/></a> | <a href="https://github.com/juugii-ho/CV-TP-4Team"><img src="https://github.com/juugii-ho/juugii-ho/blob/main/image-7.jpg?raw=true" width="720" height="340"  /></a> |
 
 
 
