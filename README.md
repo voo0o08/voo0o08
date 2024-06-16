@@ -66,7 +66,8 @@
 | **웹 기초 팀 프로젝트 <br> 케에팝 분석하기 <br> 2024/04/12~2024/04/15** | **웹 활용 팀 프로젝트 <br> 성경 번역 프로젝트 <br> 2024/04/20~2024/04/22**|
 | <a href="https://voo0o08.notion.site/280e5827719b4f80a86e0ed0c276a5f2">![image](https://github.com/voo0o08/voo0o08/assets/155411941/aa14204c-938f-4199-906b-90db592debe3)</a> | <a href="https://voo0o08.notion.site/def87d2b930c4fc19d80d62fbab76896">![image](https://github.com/voo0o08/voo0o08/assets/155411941/bb82fc0f-6b12-456a-9931-af3f5b9fb49c)</a> |
 | **개인 프로젝트 <br> CODA아동을 위한 수어 게임 <br> 2024/04/27 ~ 2024/04/30** | **기업 프로젝트 <br> 제조데이터를 활용한 중량값 예측 <br> 2024/05/~**|
-| <a href="https://voo0o08.notion.site/CODA-700cc8928618451399342ce8c029cab9">![image](https://github.com/voo0o08/voo0o08/assets/155411941/607c8ef0-876e-4751-af65-aa7b868d144a)</a> | <a href="https://voo0o08.notion.site/5c0944ef32b042cabc1cd4511adff5bb?pvs=4">![스크린샷 2024-05-30 202118](https://github.com/voo0o08/voo0o08/assets/155411941/74a9a37c-325f-4cff-9503-1fd9d8ba4ae6)</a> |
+| <a href="https://voo0o08.notion.site/CODA-700cc8928618451399342ce8c029cab9">![image](https://github.com/voo0o08/voo0o08/assets/155411941/607c8ef0-876e-4751-af65-aa7b868d144a)</a> | <a href="https://voo0o08.notion.site/5c0944ef32b042cabc1cd4511adff5bb?pvs=4">![스크린샷 2024-06-16 170927](https://github.com/voo0o08/voo0o08/assets/155411941/55af7f4e-9e25-4da2-a0b2-eab68134f55d)
+</a> |
 
 
 
